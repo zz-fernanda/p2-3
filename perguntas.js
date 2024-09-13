@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'One Piece',
+    'De quanto era a primeira recompensa pela cabeça do Luffy?',
+    '30 milhões de berries'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Jujutsu Kaisen',
+    'O Que é o Fulgor Negro?
+    'o Fulgor Negro, ou Kokusen em japonês, é uma técnica extremamente poderosa e rara. O Fulgor Negro acontece quando a energia amaldiçoada é aplicada a um golpe físico dentro de 0,000001 segundo.Ele é tão forte e difícil que só para liberar precisa de uma habilidade incrível'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'One Piece',
+    'Como Trafalgar Law se tornou um Shichibukai??',
+    'Enviando o coração de uma centena de piratas para o Governo Mundial'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Jujutsu Kaisen',
+    'Quem é mais forte, Gojo ou Sukuna?
+    'Satoru Gojo, o mais lindo. meu marido. sukuna é um buxa.'
 )
